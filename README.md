@@ -23,3 +23,6 @@ From the learner's perspective:
 * **Skill Development:** Provides hands-on experience in SQL, essential for data analysis and management.
 * **Practical Experience:** Enhances proficiency in constructing complex SQL queries and understanding real-world data scenarios.
 * **Communication:** Improves ability to interact with stakeholders and support data-driven decision-making.
+
+  ![image](https://github.com/user-attachments/assets/5eaac7b8-c859-4efe-bdec-15b4b8c4babd)
+
