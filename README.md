@@ -17,10 +17,12 @@ Target is a globally renowned brand and a prominent retailer in the United State
 7. products.csv
 8. sellers.csv
 ![image](https://github.com/user-attachments/assets/5eaac7b8-c859-4efe-bdec-15b4b8c4babd)
+
 From the learner's perspective:
 
 * **Importance:** Crucial for aspiring data analysts and scientists.
-* **Skill Development:** Provides hands-on experience in SQL, essential for data analysis and management.
+* **Skill Development:** Provides hands-on experience in SQL with Big Query, essential for data analysis and management.
+* **Tool Familiarity:** Develops skills in using BigQuery for data extraction and analysis.
 * **Practical Experience:** Enhances proficiency in constructing complex SQL queries and understanding real-world data scenarios.
 * **Communication:** Improves ability to interact with stakeholders and support data-driven decision-making.
 
