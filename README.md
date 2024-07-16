@@ -16,7 +16,7 @@ Target is a globally renowned brand and a prominent retailer in the United State
 6. orders.csv
 7. products.csv
 8. sellers.csv
-
+![image](https://github.com/user-attachments/assets/5eaac7b8-c859-4efe-bdec-15b4b8c4babd)
 From the learner's perspective:
 
 * **Importance:** Crucial for aspiring data analysts and scientists.
@@ -24,5 +24,5 @@ From the learner's perspective:
 * **Practical Experience:** Enhances proficiency in constructing complex SQL queries and understanding real-world data scenarios.
 * **Communication:** Improves ability to interact with stakeholders and support data-driven decision-making.
 
-  ![image](https://github.com/user-attachments/assets/5eaac7b8-c859-4efe-bdec-15b4b8c4babd)
+  
 
